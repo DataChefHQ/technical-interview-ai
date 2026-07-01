@@ -1,0 +1,6 @@
+output/
+data/queries_out.json
+__pycache__/
+*.pyc
+.venv/
+uv.lock

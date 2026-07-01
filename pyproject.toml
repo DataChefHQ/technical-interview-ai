@@ -1,0 +1,12 @@
+[project]
+name = "query-classifier-challenge"
+version = "0.1.0"
+requires-python = ">=3.11"
+dependencies = [
+    "transformers[torch]",
+    "torch",
+    "scikit-learn",
+    "accelerate",
+    "jupyterlab",
+    "ipykernel",
+]
